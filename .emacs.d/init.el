@@ -45,7 +45,7 @@
        '((top . 45)    ; フレームの Y 位置(ピクセル数)
 	 (left . 100)    ; フレームの X 位置(ピクセル数)
 	 (width . 140)    ; フレーム幅(文字数)
-	 (height . 80)   ; フレーム高(文字数)
+	 (height . 20)   ; フレーム高(文字数)
 	 ) initial-frame-alist))
 ;; バックアップファイルを生成しない
 (setq make-backup-files nil)
