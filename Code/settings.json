@@ -1,4 +1,5 @@
 {
     "telemetry.enableTelemetry": false,
-    "telemetry.enableCrashReporter": false
+    "telemetry.enableCrashReporter": false,
+    "editor.fontFamily": "CodeM, Menlo, Monaco, 'Courier New', monospace"
 }
