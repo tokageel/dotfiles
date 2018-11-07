@@ -1,0 +1,19 @@
+[user]
+	name = tokageel
+	email = eel.tkg@gmail.com
+[alias]
+	remotes = remote -v
+	branches = branch -a
+	stashes = stash list
+	unstage = reset -q HEAD --
+	unmerged = diff --name-only --diff-filter=U
+	uncommit = reset --mixed HEAD~
+	discard = checkout --
+	amend = commit --amend
+	nevermind = !git reset --hard HEAD && git clean -d -f
+	graph = log --graph -10 --branches --remotes --tags  --format=format:'%Cgreen%h %Creset• %<(75,trunc)%s (%cN, %cr) %Cred%d' --date-order
+	precommit = diff --cached --diff-algorithm=minimal -w
+	history = log --pretty=format:'%h %ad | %s%d [%an]' --graph --date=short
+[core]
+	editor = emacs -nw
+	pager = lv -c
