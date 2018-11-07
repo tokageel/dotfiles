@@ -66,6 +66,9 @@
 ;; C-hでBS
 (keyboard-translate ?\C-h ?\C-?)
 
+;; settings for cask
+(require 'cask "/usr/local/share/emacs/site-lisp/cask/cask.el")
+(cask-initialize)
 
 ;; settings for MELPA
 (require 'package) ;; You might already have this line
