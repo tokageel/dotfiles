@@ -1,5 +1,14 @@
 {
     "telemetry.enableTelemetry": false,
     "telemetry.enableCrashReporter": false,
-    "editor.fontFamily": "CodeM, Menlo, Monaco, 'Courier New', monospace"
+    "editor.fontFamily": "CodeM, Menlo, Monaco, 'Courier New', monospace",
+    "multiCommand.commands": [
+        {
+            "command": "multiCommand.cursorLineClipboardCut",
+            "sequence": [
+                "cursorEndSelect",
+                "editor.action.clipboardCutAction"
+            ]
+        }
+    ]
 }

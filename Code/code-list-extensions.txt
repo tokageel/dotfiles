@@ -18,6 +18,7 @@ ms-vscode.cpptools
 ms-vscode.csharp
 ms-vscode.references-view
 redhat.java
+ryuta46.multi-command
 vscjava.vscode-java-debug
 vscjava.vscode-java-pack
 vscjava.vscode-java-test
