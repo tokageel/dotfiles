@@ -1,0 +1,30 @@
+
+# ==== Emojis ====
+
+# ⚡ :zap: General update
+# 👍 :+1: Feature improvements
+# ✨ :sparkles: New feature
+# 🐛 :bug: Bugfix
+# 🚑 :ambulance: Critical hotfix
+# 💩 :hankey: Bad code
+# 🚧 :construction: Work in progress
+
+# 🔨 :hammer: Refactor code
+# 🚀 :rocket: Performance improvement
+
+# ✅ :white_check_mark: Adding a test
+# ✔ :heavy_check_mark: Make a test pass
+# 🔥 :fire: Removing code/files
+
+# 🔧 :wrench: Configuration files
+# ⬆ :arrow_up: Upgrading dependencies
+# ⬇ :arrow_down: Downgrading dependencies
+# ➖ :heavy_minus_sign: Removing a dependency
+# ➕ :heavy_plus_sign: Adding a dependency
+
+# 📚 :books: Documentation
+# 💚 :green_heart: Continuous Integration
+# 🔒 :lock: Security
+# 📈 :chart_with_upwards_trend: Analytics or tracking code
+
+# 🎉 :tada: Initial commit
