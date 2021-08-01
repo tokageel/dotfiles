@@ -18,7 +18,7 @@
 	editor = emacs -nw
 	pager = lv -c
 	autocrlf = input
-	hooksPath = $HOME/.config/git/hooks
+	hooksPath = ~/.config/git/hooks
 [difftool "sourcetree"]
 	cmd = opendiff \"$LOCAL\" \"$REMOTE\"
 	path = 
@@ -31,4 +31,4 @@
 	process = git-lfs filter-process
 	required = true
 [commit]
-	template = $HOME/.config/git/commit_template
+	template = ~/.config/git/commit_template
